@@ -1,4 +1,4 @@
-## Bon Dia ☕️
+## Bom Dia ☕️
 
 - 🌱 Estudando
 - ☕ Vai um cafézinho?

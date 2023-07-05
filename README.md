@@ -16,6 +16,7 @@ Estudando:
 
 <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" height="40" width="52" alt="bash logo"/>
   <a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   
 ##
   ![Snake Animation](https://github.com/CgDourado/CgDourado/blob/output/snake.svg)

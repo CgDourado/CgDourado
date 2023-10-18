@@ -13,10 +13,13 @@
 
 ##
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&username=CgDourado" height="150" alt="stats graph"  />
+</div>
+
+##
+
 <div> 
   <a href="https://instagram.com/caiogdourado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/caio-dourado-242b6226b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-![Snake Animation](https://github.com/CgDourado/CgDourado/blob/output/snake.svg)
